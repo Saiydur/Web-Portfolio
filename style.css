@@ -49,7 +49,7 @@ section{
     height: 80%;
     background-color: white;
     display: block;
-    overflow: scroll;
+    overflow: auto;
 }
 .experince-area{
     background-image: url(images/exp-bg.png);
